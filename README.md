@@ -1,16 +1,22 @@
 # HORA
 小美人资，基于OSG模块化的专业人力资源系统，主要有人事档案、考勤管理、薪酬管理、绩效管理以及后勤管理几大模块，适用于中小型企业，本系统特点从代码级分模块开发与加载，从根本上解决系统复杂度问题，同时在人力资源领域能够提供深度服务功能。
 
+
 #安装
+
 1：安装JDK8.
+
 2: 安装REDIS(可选).
 
+
 #配置
+
 1：修改默认数据库名称，主要用于默认的数据与全局数据保存。
 
 用压缩文件打开bin/chuniter-kernel_3.6.0.0.jar中的META-INF/MANIFEST.MF中的default-databaseName: 数据库名.
 
 2: 修改数据库连接池单元配置
+
 在unit/base/DBPool-1.1.0.jar,打开db.properties，以下是配置说明
 
 user=数据库名
@@ -26,6 +32,7 @@ dbType=mssql(可选项：mysql、oracle、mssql)
 dbName=数据库名
 
 default=yes（是否是默认连接池，在多数据连接池中可用）
+
 
 #运行
 进入/bin/目录，widows执行startup.bat，linux执行startup.
