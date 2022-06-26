@@ -35,4 +35,5 @@ default=yes（是否是默认连接池，在多数据连接池中可用）
 
 
 #运行
+
 进入/bin/目录，widows执行startup.bat，linux执行startup.
