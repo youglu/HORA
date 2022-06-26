@@ -37,3 +37,11 @@ default=yes（是否是默认连接池，在多数据连接池中可用）
 #运行
 
 进入/bin/目录，widows执行startup.bat，linux执行startup.
+
+#技术支持
+132 4995 6015 陆先生
+
+#在线体验
+http://hora.gddshl.com
+
+
