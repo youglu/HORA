@@ -42,6 +42,9 @@ default=yes（是否是默认连接池，在多数据连接池中可用）
 
 进入/bin/目录，widows执行startup.bat，linux执行startup.
 
+以下为产品美图
+![horaindex](https://hr.gddshl.com/images/horaindex.jpeg)
+
 #技术支持
 132 4995 6015 陆先生
 
