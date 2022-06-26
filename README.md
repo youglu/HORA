@@ -7,15 +7,22 @@
 
 #配置
 1：修改默认数据库名称，主要用于默认的数据与全局数据保存。
+
 用压缩文件打开bin/chuniter-kernel_3.6.0.0.jar中的META-INF/MANIFEST.MF中的default-databaseName: 数据库名.
 
 2: 修改数据库连接池单元配置
 在unit/base/DBPool-1.1.0.jar,打开db.properties，以下是配置说明
+
 user=数据库名
+
 password=加密后的密码
+
 driverClass=驱动类名
+
 url=jdbc url
+
 dbType=mssql(可选项：mysql、oracle、mssql)
+
 dbName=数据库名
 
 default=yes（是否是默认连接池，在多数据连接池中可用）
