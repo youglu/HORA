@@ -43,6 +43,6 @@ default=yes（是否是默认连接池，在多数据连接池中可用）</br>
 # 在线体验
 产品地址：https://hora.gddshl.com</br>
 产品官网：http://hr.gddshl.com </br>
-需要源码与技术支持的朋友请致电公司或发邮件到:<a href='mail:329900041@qq.com'>bigbigbigbiglu@yeah.net<a/> ，目前只提供人事档案、薪酬以及绩效的源码。
+需要源码与技术支持的朋友请致电公司或发邮件到:<a href='mail:329900041@qq.com'>329900041@qq.com<a/> ，目前只提供人事档案、薪酬以及绩效的源码。
 
 
