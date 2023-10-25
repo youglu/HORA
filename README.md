@@ -38,7 +38,7 @@ default=yes（是否是默认连接池，在多数据连接池中可用）</br>
 ![hora5](https://hr.gddshl.com/images/hora5.jpeg)
 
 # 技术支持
-0769 333 555 23 李先生
+152 1788 8608 陆先生
 
 # 在线体验
 产品地址：https://hora.gddshl.com</br>
